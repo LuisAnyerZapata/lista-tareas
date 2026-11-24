@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de configuración local
+.env
+.env.*
+
+# Datos generados por la aplicación
+tareas.json
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+*.swp
+.DS_Store
